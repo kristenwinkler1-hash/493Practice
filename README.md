@@ -1,2 +1,1 @@
-# 493Practice
-practice
+import requests
